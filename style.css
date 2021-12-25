@@ -43,4 +43,5 @@ input:active {
 
 input[type=number] {
 	width: 238px;
+    text-align: right;
 }
